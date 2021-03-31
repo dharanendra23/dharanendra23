@@ -6,11 +6,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dharanendralv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dharanendra l v" height="30" width="40" /></a><br />
-<a href="https://www.codechef.com/users/dharnendra23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dharnendra23" height="30" width="40" /></a><br />
-<a href="https://www.hackerrank.com/dharnendra23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dharnendra23" height="30" width="40" /></a><br />
-<a href="https://codeforces.com/profile/dharnendra23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="dharnendra23" height="30" width="40" /></a><br />
-<a href="https://auth.geeksforgeeks.org/user/dharanendralv23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="dharanendralv23" height="30" width="40" /></a><br />
+<a href="https://linkedin.com/in/dharanendralv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dharanendra l v" height="30" width="40" /></a><br><br>
+<a href="https://www.codechef.com/users/dharnendra23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dharnendra23" height="30" width="40" /></a><br><br>
+<a href="https://www.hackerrank.com/dharnendra23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dharnendra23" height="30" width="40" /></a><br><br>
+<a href="https://codeforces.com/profile/dharnendra23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="dharnendra23" height="30" width="40" /></a><br><br>
+<a href="https://auth.geeksforgeeks.org/user/dharanendralv23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="dharanendralv23" height="30" width="40" /></a><br><br>
 </p>
 
 ---
@@ -22,6 +22,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharanendra23&show_icons=true&locale=en&layout=compact" alt="dharanendra23" /></p>
 
+---
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharanendra23&show_icons=true&locale=en" alt="dharanendra23" /></p>
+
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharanendra23&" alt="dharanendra23" /></p>
