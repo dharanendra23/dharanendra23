@@ -10,7 +10,7 @@
 <a href="https://www.codechef.com/users/dharnendra23" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="dharnendra23" height="40" width="40" /></a><br><br>
 <a href="https://www.hackerrank.com/dharnendra23" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="dharnendra23" height="35" width="40" /></a><br><br>
 <a href="https://codeforces.com/profile/dharnendra23" target="blank"><img align="center" src="https://seeklogo.com/images/C/codeforces-logo-AA1F2FF3CF-seeklogo.com.png" alt="dharnendra23" height="30" width="150" /></a><br><br>
-<a href="https://auth.geeksforgeeks.org/user/dharanendralv23" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVgarZzrvoKIObYnt3UOF--7YAco7Ms6MOsQ&usqp=CAU" alt="dharanendralv23" height="40" width="50" /></a><br><br>
+<a href="https://auth.geeksforgeeks.org/user/dharanendralv23/articles" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVgarZzrvoKIObYnt3UOF--7YAco7Ms6MOsQ&usqp=CAU" alt="dharanendralv23" height="40" width="50" /></a><br><br>
 </p>
 
 ---
