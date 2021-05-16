@@ -6,11 +6,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dharanendralv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dharanendra l v" height="30" width="40" /></a><br><br>
-<a href="https://www.codechef.com/users/dharnendra23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dharnendra23" height="30" width="40" /></a><br><br>
-<a href="https://www.hackerrank.com/dharnendra23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dharnendra23" height="30" width="40" /></a><br><br>
-<a href="https://codeforces.com/profile/dharnendra23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="dharnendra23" height="30" width="40" /></a><br><br>
-<a href="https://auth.geeksforgeeks.org/user/dharanendralv23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="dharanendralv23" height="30" width="40" /></a><br><br>
+<a href="https://linkedin.com/in/dharanendralv" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621156550~hmac=eefa11e52bae0ac6497608b5dc6d1257" alt="dharanendra l v" height="40" width="40" /></a><br><br>
+<a href="https://www.codechef.com/users/dharnendra23" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="dharnendra23" height="40" width="40" /></a><br><br>
+<a href="https://www.hackerrank.com/dharnendra23" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="dharnendra23" height="35" width="40" /></a><br><br>
+<a href="https://codeforces.com/profile/dharnendra23" target="blank"><img align="center" src="https://seeklogo.com/images/C/codeforces-logo-AA1F2FF3CF-seeklogo.com.png" alt="dharnendra23" height="30" width="150" /></a><br><br>
+<a href="https://auth.geeksforgeeks.org/user/dharanendralv23" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVgarZzrvoKIObYnt3UOF--7YAco7Ms6MOsQ&usqp=CAU" alt="dharanendralv23" height="40" width="50" /></a><br><br>
 </p>
 
 ---
